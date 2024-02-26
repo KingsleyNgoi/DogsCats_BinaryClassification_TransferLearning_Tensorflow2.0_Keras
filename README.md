@@ -21,7 +21,8 @@
 
 ## <b>2. | Accuracy of Best Model</b> 🧪
 Transfer Learning ResNet50
-- Accuracy achieved: 95.46%
+- Training Accuracy achieved: 95.46%
+- Validation Accuracy achieved: 91.71%
 
 ## <b>3. | Conclusiion </b> 📤
 - In this study respectively,
